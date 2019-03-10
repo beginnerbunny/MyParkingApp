@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "183253085996",
+    "firebase_url": "https://myparkingapp-2a918.firebaseio.com",
+    "project_id": "myparkingapp-2a918",
+    "storage_bucket": "myparkingapp-2a918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183253085996:android:f5668183f5c38d16",
+        "android_client_info": {
+          "package_name": "com.example.dell_owner.myparkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183253085996-7nop0dd16oc408649qvu6i2rcuahe39l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell_owner.myparkingapp",
+            "certificate_hash": "18f008837e986aa765fe228feca2d9c19a70823d"
+          }
+        },
+        {
+          "client_id": "183253085996-eq0nsca26p796k11c1ob5kkfug315j19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZpswXB1rLUWJiT5oR6NfdTufG3tb4z4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183253085996-eq0nsca26p796k11c1ob5kkfug315j19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
